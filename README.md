@@ -13,12 +13,21 @@ Język programowania: C#
 System operacyjny: Windows, Android
 
 Etapy tworzenia projektu: 
+
 1. Zaprogramowanie podstawowych aspektów związanych z poruszaniem się gracza, a także mechaniką kamery. 
+
 2. Zaimplementowanie docelowego ruchu gracza (poprawienie utworzonego wcześniej skryptu poruszania gracza, aby dostosować go do mechaniki gry) oraz stworzenie pierwszych modeli do projektu. 
+
 3. Wykorzystanie fizyki do zróżnicowania rozgrywki. 
+
 4. Dodanie elementów utrudniających rozgrywkę. 
+
 5. Nadanie celu rozgrywce(zbieranie punktów). 
+
 6. Ustandaryzowanie systemu tworzenia poziomów. 
+
 7. Wykonanie menu. 
+
 8. Dopracowanie projektu(zaliczanie plansz, stworzenie intra, eksport gry, testy). 
+
 9. Zaportowanie projektu na platformy mobilne.
