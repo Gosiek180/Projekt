@@ -12,7 +12,7 @@ public class gameover : MonoBehaviour
             {
                 // Wtedy zostanie pobrana nazwa aktualnego poziomu
                 string levelName = SceneManager.GetActiveScene().name;
-                //Application.LoadLevel(levelName);
+                // I zostanie on wczytany
                 SceneManager.LoadScene(levelName);
             }
         }
