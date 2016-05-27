@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class kamera : MonoBehaviour
+public class CameraController : MonoBehaviour
 {
     public Transform sphere;
 	
