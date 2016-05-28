@@ -15,10 +15,10 @@ public class krysztal : MonoBehaviour
             return;
         }
 
-        //jeśli kula dotknęła ostatni kryształ na planszy, zostaje wczytana plansza "win"
+        //jeśli kula dotknęła ostatni kryształ na planszy, zostaje wczytana plansza "menu"
         if (leaveCrystals() == 1)
         {
-            SceneManager.LoadScene("win");
+            SceneManager.LoadScene("menu");
         }
         //jeśli kula dotknęła jeden z kryształów znajdujących się na planszy, ale nie ostatni, kryształ ten znika
         else
