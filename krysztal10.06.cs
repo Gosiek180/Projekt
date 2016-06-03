@@ -18,6 +18,10 @@ public class krysztal : MonoBehaviour
         //jeśli kula dotknęła ostatni kryształ na planszy, zostaje wczytana plansza "menu"
         if (leaveCrystals() == 1)
         {
+            //pobranie nazwy poziomu na którym aktualnie znajduje się gracz
+			string levelName = Application.loadedLevelName;
+			PlayerPrefs.SetInt(levelName + "_finished", 1);
+            
             SceneManager.LoadScene("menu");
         }
         //jeśli kula dotknęła jeden z kryształów znajdujących się na planszy, ale nie ostatni, kryształ ten znika
