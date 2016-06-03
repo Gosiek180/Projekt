@@ -18,12 +18,12 @@ public class Kierunek : MonoBehaviour
         if (rightDirection)
         {
             //zmienienie prędkości obiektu
-            velocity.x = 5f;
+            velocity.x = 4f;
         }
         else
         {
             //zmienienie prędkości obiektu
-            velocity.x = -5f;
+            velocity.x = -4f;
         }
 
         //aktualizowanie prędkości obiektu
