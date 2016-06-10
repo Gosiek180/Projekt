@@ -28,6 +28,6 @@ Etapy tworzenia projektu:
 
 7. Wykonanie menu. 
 
-8. Dopracowanie projektu(zaliczanie plansz, stworzenie intra, eksport gry, testy). 
+8. Dopracowanie projektu(zaliczanie plansz, stworzenie intra).
 
-9. Zaportowanie projektu na platformy mobilne.
+9. Eksport gry i testy.
